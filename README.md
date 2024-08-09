@@ -16,7 +16,7 @@ Tento projekt obsahuje jednoduchou konzolovou aplikaci pro práci s úkoly (`Tod
    ```bash
    dotnet run
 
-   ## Soubory
+## Soubory
 
 ### Program.cs
 Tento soubor obsahuje konzolovou aplikaci, která využívá klienta `TodoClient` pro komunikaci s API.
